@@ -1,0 +1,76 @@
+/**
+ * All of the CSS for your dashboard-specific functionality should be
+ * included in this file.
+ */
+
+ .list-item-wrap{
+  margin:5px 0 10px 0;
+  background-color: #EEEEEE;
+  padding:5px;
+}
+
+.tl-item-mav-bar{
+  background-color: #DDDDDD;
+  padding: 2px;
+  height:auto;
+  display: block;
+  overflow: hidden;
+}
+.tl-nav-bar-left{
+  float: left;
+}
+.tl-nav-bar-right{
+  float: right;
+}
+.tl-item-reference{
+  font-weight: bold;
+  font-size: 1.4em;
+  padding:2px;
+  color: #000000;
+}
+
+.image-preview-wrap{
+  margin:5px 0;
+  clear: both;
+  height: auto;
+  overflow: hidden;
+}
+.list-item-wrap .img-preview{
+  width:150px;
+  float: left;
+  margin-left: 55px;
+  padding: 3px;
+  border:1px #BBBBBB solid;
+}
+input.tl-select-img{
+  margin-left: 2px !important;
+}
+.list-item-wrap .thumb-wrapper{
+  max-width: 100%;
+}
+
+.tl-form-row{
+  margin-top: 5px;
+  clear: both;
+}
+.tl-form-row label{
+  min-width:50px;
+  display: inline-block;
+}
+.btn-remove-tl-list-item{
+  padding: 0;
+}
+a.btn-tl-remove-image-upload{
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  overflow: hidden;
+  text-decoration: none;
+  color: #ff4141;
+  margin-left: -20px;
+  background-color: #ffffff;
+  float: left;
+}
+a.btn-tl-remove-image-upload:hover{
+  color: #ef3d3d;
+}

@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Top List\n"
+"POT-Creation-Date: 2014-11-15 21:18+0545\n"
+"PO-Revision-Date: 2014-11-15 21:18+0545\n"
+"Last-Translator: Nilambar Sharma <nilambar@outlook.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../top-list\n"
+
+#: ../../top-list/admin/class-top-list-admin.php:115
+msgid "List Content"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:162
+msgid "Title"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:163
+msgid "Enter Title"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:178
+msgid "Image"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:180
+msgid "Upload"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:188
+msgid "Preview"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:197
+msgid "Description"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:198
+msgid "Enter Description"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:332
+msgid "Invalid ID"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:336
+msgid "Error"
+msgstr ""
+
+#: ../../top-list/admin/class-top-list-admin.php:343
+msgid "Removed Successfully"
+msgstr ""
+
+#: ../../top-list/includes/widgets/class-top-list-category-widget.php:8
+msgid "A list or dropdown of Top List categories."
+msgstr ""
+
+#: ../../top-list/includes/widgets/class-top-list-category-widget.php:9
+msgid "[Top List] Categories"
+msgstr ""
+
+#: ../../top-list/includes/widgets/class-top-list-category-widget.php:14
+#: ../../top-list/public/class-top-list-public.php:168
+msgid "Categories"
+msgstr ""
+
+#: ../../top-list/includes/widgets/class-top-list-category-widget.php:60
+msgid "Title:"
+msgstr ""
+
+#: ../../top-list/includes/widgets/class-top-list-category-widget.php:65
+msgid "Show post counts"
+msgstr ""
+
+#: ../../top-list/includes/widgets/class-top-list-category-widget.php:68
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:112
+msgid "Add New List"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:113
+msgid "New List"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:114
+msgid "Edit List"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:115
+msgid "View List"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:116
+msgid "All Lists"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:117
+msgid "Search Lists"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:118
+msgid "Parent Lists:"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:119
+msgid "No lists found."
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:120
+msgid "No lists found in Trash."
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:160
+msgid "Search Categories"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:161
+msgid "All Categories"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:162
+msgid "Parent Category"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:163
+msgid "Parent Category:"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:164
+msgid "Edit Category"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:165
+msgid "Update Category"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:166
+msgid "Add New Category"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:167
+msgid "New Category Name"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:184
+msgid "Search Tags"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:185
+msgid "Popular Tags"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:186
+msgid "All Tags"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:189
+msgid "Edit Tag"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:190
+msgid "Update Tag"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:191
+msgid "Add New Tag"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:192
+msgid "New Tag Name"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:193
+msgid "Separate tags with commas"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:194
+msgid "Add or remove tags"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:195
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:196
+msgid "No tags found."
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:197
+msgid "Tags"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:383
+msgid "Posted on"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:401
+msgid "Category"
+msgstr ""
+
+#: ../../top-list/public/class-top-list-public.php:408
+msgid "Tag"
+msgstr ""

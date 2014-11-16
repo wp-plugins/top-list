@@ -1,0 +1,60 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.top-list-wrap{
+  clear: both;
+}
+.top-list-wrap .top-list-item-wrap{
+  border-top:1px #EEEEEE solid;
+  margin-top:5px;
+  padding-top: 5px;
+}
+.top-list-wrap .top-list-item-wrap .item-heading{
+  max-width: 100%;
+  float: left;
+  margin-bottom: 10px;
+  clear: both;
+}
+.top-list-wrap .top-list-item-wrap .item-heading .item-number{
+  font-size: 1.6em;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  background: none repeat scroll 0 0 #d24d33;
+  display: inline-block;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: center;
+  margin-right:10px;
+
+}
+.top-list-wrap .top-list-item-wrap .item-heading .item-title{
+  display: inline-block;
+  color:#343434;
+  font-size: 1.4em;
+}
+
+.item-heading-left{
+  display: inline-block;
+  float: left;
+  clear: left;
+  max-width:50px;
+  width:50px;
+}
+.item-heading-right{
+  float: right;
+  display: inline-block;
+  max-width: 92%;
+}
+
+.item-description{
+  clear: both;
+}
+
+.type-list .tl-meta-block{
+  margin-left: 5px;
+}
+.type-list .tl-single-meta-wrap{
+  margin: 5px 0;
+}
